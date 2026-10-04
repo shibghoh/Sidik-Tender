@@ -148,7 +148,3 @@ IBM Langflow · Python (networkx) · Chroma · Next.js, TypeScript, Tailwind, Re
 - Aksi lanjutan lewat watsonx Orchestrate (berkas kasus, draf surat ke Inspektorat) setelah persetujuan auditor.
 - Penggantian model ke IBM Granite (watsonx.ai).
 - Monitoring tender baru secara berkelanjutan.
-
-## Lisensi
-
-Tambahkan file `LICENSE` sesuai pilihan Anda.
