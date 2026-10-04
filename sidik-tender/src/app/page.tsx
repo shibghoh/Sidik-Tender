@@ -42,7 +42,7 @@ const LANGFLOW_URL =
   process.env.NEXT_PUBLIC_LANGFLOW_URL || "http://localhost:7860";
 const FLOW_ID =
   process.env.NEXT_PUBLIC_LANGFLOW_FLOW_ID ||
-  "05407b02-fa4b-4a69-8bab-d2ffd2120bf8";
+  "508c52b5-6691-43d8-b8e6-4df2f0368aa8";
 const LANGFLOW_API_KEY = process.env.NEXT_PUBLIC_LANGFLOW_API_KEY || "";
 
 // ─── Types matching build_report_json() output ───────────────────────────────
@@ -954,9 +954,6 @@ export default function SidikTenderApp() {
           <ShieldCheck className="w-8 h-8 text-blue-500" />
           <div>
             <h1 className="text-xl font-black tracking-tight">SIDIK TENDER</h1>
-            <p className="text-xs text-blue-500 font-semibold tracking-widest uppercase">
-              GovTech Forensic Intelligence
-            </p>
           </div>
         </div>
         <button
@@ -1404,7 +1401,7 @@ export default function SidikTenderApp() {
           dark ? "text-slate-600 border-slate-800" : "text-slate-400 border-slate-200"
         }`}
       >
-        SIDIK TENDER · GovTech Forensic Intelligence · LIAF Engine v2
+        SIDIK TENDER
       </footer>
     </div>
   );

@@ -800,7 +800,7 @@
             "frozen": false,
             "icon": "brain-circuit",
             "key": "LanguageModelComponent",
-            "last_updated": "2026-10-01T12:18:21.560Z",
+            "last_updated": "2026-10-04T11:45:52.408Z",
             "legacy": false,
             "lf_version": "1.11.6",
             "metadata": {
@@ -1378,8 +1378,8 @@
           "width": 320
         },
         "position": {
-          "x": 1189.504754213765,
-          "y": -387.5038706372118
+          "x": 1163.7066629684164,
+          "y": -151.63560782259603
         },
         "selected": false,
         "type": "genericNode"
@@ -2130,7 +2130,7 @@
             ],
             "frozen": false,
             "icon": "brain-circuit",
-            "last_updated": "2026-10-01T12:18:21.562Z",
+            "last_updated": "2026-10-04T11:45:52.454Z",
             "legacy": false,
             "lf_version": "1.11.6",
             "metadata": {
@@ -2756,7 +2756,7 @@
             ],
             "frozen": false,
             "icon": "file-text",
-            "last_updated": "2026-10-01T12:18:23.727Z",
+            "last_updated": "2026-10-04T11:45:52.457Z",
             "legacy": false,
             "lf_version": "1.11.6",
             "metadata": {
@@ -5339,8 +5339,8 @@
           "width": 192
         },
         "position": {
-          "x": 3208.379016904738,
-          "y": 443.6665515310472
+          "x": 3046.2195862196895,
+          "y": 583.7133325772253
         },
         "selected": false,
         "type": "genericNode"
@@ -5904,17 +5904,17 @@
           "width": 320
         },
         "position": {
-          "x": 2655.407515944843,
-          "y": 633.6494678617105
+          "x": 2625.923983093016,
+          "y": 615.2222598293187
         },
         "selected": false,
         "type": "genericNode"
       }
     ],
     "viewport": {
-      "x": -448.37334030759723,
-      "y": -101.65789475280758,
-      "zoom": 0.49862840635809785
+      "x": -1071.3947180121056,
+      "y": 49.46619337933839,
+      "zoom": 1.778735632183908
     }
   },
   "description": "Gunakan tool ini untuk melakukan audit forensik kartel pengadaan. Tool ini menerima input teks berisi path file CSV lokal atau teks mentah CSV. Kembalikan output akhirnya kepada pengguna.",
@@ -5922,7 +5922,7 @@
   "id": "508c52b5-6691-43d8-b8e6-4df2f0368aa8",
   "is_component": false,
   "last_tested_version": "1.11.6",
-  "locked": false,
+  "locked": true,
   "name": "Audit Sidik Tender v2",
   "tags": []
 }
